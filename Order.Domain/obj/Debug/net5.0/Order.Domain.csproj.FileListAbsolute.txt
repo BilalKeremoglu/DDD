@@ -1,0 +1,12 @@
+D:\playground\DDD\OrderDDD\Order.Domain\bin\Debug\net5.0\Order.Domain.deps.json
+D:\playground\DDD\OrderDDD\Order.Domain\bin\Debug\net5.0\Order.Domain.dll
+D:\playground\DDD\OrderDDD\Order.Domain\bin\Debug\net5.0\Order.Domain.pdb
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.csproj.AssemblyReference.cache
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.AssemblyInfoInputs.cache
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.AssemblyInfo.cs
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.dll
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\refint\Order.Domain.dll
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\Order.Domain.pdb
+D:\playground\DDD\OrderDDD\Order.Domain\obj\Debug\net5.0\ref\Order.Domain.dll

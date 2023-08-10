@@ -1,0 +1,15 @@
+D:\playground\DDD\OrderDDD\Order.Application\bin\Debug\net5.0\Order.Application.deps.json
+D:\playground\DDD\OrderDDD\Order.Application\bin\Debug\net5.0\Order.Application.dll
+D:\playground\DDD\OrderDDD\Order.Application\bin\Debug\net5.0\Order.Application.pdb
+D:\playground\DDD\OrderDDD\Order.Application\bin\Debug\net5.0\Order.Domain.dll
+D:\playground\DDD\OrderDDD\Order.Application\bin\Debug\net5.0\Order.Domain.pdb
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.csproj.AssemblyReference.cache
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.AssemblyInfoInputs.cache
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.AssemblyInfo.cs
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.csproj.CoreCompileInputs.cache
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.csproj.CopyComplete
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.dll
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\refint\Order.Application.dll
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\Order.Application.pdb
+D:\playground\DDD\OrderDDD\Order.Application\obj\Debug\net5.0\ref\Order.Application.dll

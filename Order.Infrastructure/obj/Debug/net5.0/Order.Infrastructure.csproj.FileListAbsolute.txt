@@ -1,0 +1,17 @@
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.deps.json
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Infrastructure.pdb
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.AssemblyReference.cache
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.AssemblyInfo.cs
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\refint\Order.Infrastructure.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.pdb
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\ref\Order.Infrastructure.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Application.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Domain.dll
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Application.pdb
+D:\playground\DDD\OrderDDD\Order.Infrastructure\bin\Debug\net5.0\Order.Domain.pdb
+D:\playground\DDD\OrderDDD\Order.Infrastructure\obj\Debug\net5.0\Order.Infrastructure.csproj.CopyComplete
